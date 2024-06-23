@@ -35,11 +35,3 @@ Here are some ideas to get you started: <br>
 <a href="https://github.com/drewdev02/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewdev02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 </div>
 
----
-
-   <div align="center">
-    <p align = "center">
-🎧 Spotify Playing
-    </p>
-<img align="center" src="https://spotify-now-playing-roan-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="adrewdev spotify playing" width="350" />
-</div>
